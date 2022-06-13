@@ -1,4 +1,4 @@
-# StyleGuides
+# Dreamacy Digital Devleopment | Style Guides
 
 Code and other style guides for [DDD](//github.com/dreamacydd).
 
@@ -6,12 +6,14 @@ These are pulled from the company brand bible, which is a private document, and 
 
 ## Preferred Stack
 
-* Backend: Flask, Django, Sinatra, or Rails
+* Backend: WordPress, Flask, Django, Sinatra, or Rails
 * Frontend: React, Petite Vue, or jQuery
-* Languages: Python, Ruby, TypeScript, JavaScript
+* Languages: PHP, Python, Ruby, TypeScript, JavaScript
 * Cloud: Microsoft Azure
 * Container/Orchestration: Docker/K8s
-* 
+* Database: MariaDB (WordPress) or PostgreSQL (all others)
+* HTTP: Apache
+* OS: Debian Linux
 
 ## Minimum Software and Language Versions
 
