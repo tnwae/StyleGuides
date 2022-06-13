@@ -13,8 +13,10 @@ Our preferred JavaScript/TypeScript libraries are React, Redux, and jQuery.
 
 In keeping with library conventions, component names in React should be spelled in PascalCase.
 
-It is preferred to use our in-house React application template instead of Create-React-App, if
+It is preferred to use [our in-house React application template][0] instead of Create-React-App, if
 a React app must be used.
+
+[0]: https://github.com/waellison/react-without-cra
 
 Browser features may only be used if they are available to more than 94%[^1] of Web users[^2] as judged
 via Can I Use.  This includes CSS, HTML, and DOM.
