@@ -14,6 +14,7 @@ Git is the version control system of choice for all Dreamacy projects.  Dreamacy
   * 💈/`style`: Changes were made pertaining to code style.
   * ⚖/`legal`/`policy`: A legal or policy change was made, such as updating the license, code of conduct, or other project rules.
 * After the descriptor, a commit summary must be written in the imperative mood, with the notion being that if read as a complete sentence, one can state it as, “If applied, this commit will [perform the specified action].”
+  * This also achieves parity with issue titles, which are also in the imperative mood.
 * If needed, the number of an issue ID in the issue tracker may be appended to a commit message in square brackets, e.g. [#1].
 * If needed, an explanatory text may be added that explains the change(s) made.  Bullet points, written with a leading hyphen, are permissible with a two-space hanging indent.
 * References to an issue tracker shall be placed at the bottom of the commit message (if closing an issue).
