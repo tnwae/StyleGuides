@@ -1,4 +1,4 @@
-# Dreamacy Digital Devleopment | Style Guides
+# William Ellison's Programming Style Guides
 
 [![License](https://img.shields.io/github/license/waellison/StyleGuides)](#)
 
@@ -8,12 +8,11 @@ These are pulled from the company brand bible, which is a private document, and 
 
 ## Preferred Stack
 
-* Backend: WordPress, Flask, Django, Sinatra, or Rails
-* Frontend: React, Petite Vue, or jQuery
-* Languages: PHP, Python, Ruby, TypeScript, JavaScript
-* Cloud: Microsoft Azure
-* Container/Orchestration: Docker/K8s
-* Database: MariaDB (WordPress) or PostgreSQL (all others)
+* Backend: WordPress or Flask
+* Frontend: React if I must
+* Languages: Python, PHP, TypeScript
+* Cloud: Cloud providers are for chumps, real men use old-fashioned VPSes
+* Database: MariaDB
 * HTTP: Apache
 * OS: Debian Linux
 
