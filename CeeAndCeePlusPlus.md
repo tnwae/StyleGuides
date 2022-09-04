@@ -8,7 +8,8 @@ Method and variable names should be spelled in snake_case.  Preprocessor macro n
 behaviors.
 
 __Code in C++ that uses multiple inheritance will not be accepted into the `trunk` branch of any Dreamacy
-project for any reason.__
+project for any reason.  Bjarne Stroustrup himself could submit a pull request and if it were to use multiple
+inheritance, I wouldn't merge it.__
 
 In C, I prefer that the names of structures end in _t, in keeping with C library conventions.  As a general rule,
 I always use named structures (as in the below), which allows self-reference within a structure type definition:
