@@ -10,9 +10,9 @@ Method and variable names in these languages should be spelled in `snake_case`, 
 
 * Code in Python must follow [PEP-8](https://peps.python.org/pep-0008/).
 
-* __Code using multiple inheritance will not be accepted into the `trunk` branch of any Dreamacy project for any reason.__
+* __Code using multiple inheritance will not be accepted into the `trunk` branch of any project for any reason.__
 
-* We prefer to refer to `__init__` and its ilk as _magic methods_.
+* We prefer to refer to `__init__` and its ilk as _magic methods_.  Only a dunderhead would call them dunder methods.
 
 * Our preferred Python frameworks are Django and Flask.
 
