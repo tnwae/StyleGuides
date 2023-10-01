@@ -1,6 +1,6 @@
 # Git Commit Style Manual
 
-Git is the version control system of choice for all Dreamacy projects.  Dreamacy operates a GitHub organization at <https://github.com/dreamacydd>.  Commit messages in Git must conform to the following guidelines, which are based on a Gist by Robert Painsi and on this guide at freeCodeCamp.
+Git is the version control system of choice.  Commit messages in Git must conform to the following guidelines, which are based on a Gist by Robert Painsi and on this guide at freeCodeCamp.
 
 * Commit summary must be 72 characters or shorter; 50 characters is preferred.
 
