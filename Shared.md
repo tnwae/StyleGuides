@@ -1,6 +1,6 @@
 # Common Style Considerations for All Languages
 
-The following rules hold true for all languages in which we conduct development at Dreamacy Digital Development.
+The following rules hold true for all languages in which I conduct development.
 
 * Method names should be verbs.
 
